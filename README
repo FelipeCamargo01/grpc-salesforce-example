@@ -8,7 +8,7 @@ Salesforce GRPC golang example using Docker
 
 ## Description
 
-This project is a Salesforce GRPC example implemented in Golang and packaged with Docke using Salesforce gprc example.
+This project is a Salesforce GRPC example implemented in Golang and packaged with Docker using Salesforce gprc example.
 
 ## Installation
 
