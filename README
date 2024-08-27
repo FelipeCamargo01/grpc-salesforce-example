@@ -1,0 +1,19 @@
+# Project Name
+
+Salesforce GRPC golang example using Docker
+
+## Description
+
+Salesforce GRPC golang example using Docker
+
+## Description
+
+This project is a Salesforce GRPC example implemented in Golang and packaged with Docke using Salesforce gprc example.
+
+## Installation
+
+1. Clone the repository.
+2. Must have a platorm event in Salesforce
+3. Setup the .env using .env.example
+4. Run the project with docker compose up --build.
+5. See the messages when published with Salesforce EventBus

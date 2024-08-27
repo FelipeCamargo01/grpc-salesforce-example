@@ -1,0 +1,7 @@
+services:
+  rpc:
+    build: .
+    image: golang-rpc
+    ports:
+      - "8080:8080"
+    container_name: golang-rpc
